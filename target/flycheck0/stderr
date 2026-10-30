@@ -1,4 +1,0 @@
-    Checking time-tools v0.1.0 (/home/mdupont/tools/time-tools)
-error: could not compile `time-tools` (bin "time-tools" test) due to 15 previous errors; 17 warnings emitted
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `time-tools` (bin "time-tools") due to 15 previous errors; 17 warnings emitted

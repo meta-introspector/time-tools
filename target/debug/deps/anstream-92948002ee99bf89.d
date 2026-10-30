@@ -1,0 +1,14 @@
+/home/mdupont/tools/time-tools/target/debug/deps/anstream-92948002ee99bf89.d: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/strip.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/wincon.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/stream.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/_macros.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/auto.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/buffer.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/fmt.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/strip.rs
+
+/home/mdupont/tools/time-tools/target/debug/deps/libanstream-92948002ee99bf89.rmeta: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/strip.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/wincon.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/stream.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/_macros.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/auto.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/buffer.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/fmt.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/strip.rs
+
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/lib.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/mod.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/strip.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/adapter/wincon.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/stream.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/_macros.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/auto.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/buffer.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/fmt.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/anstream-1.0.0/src/strip.rs:

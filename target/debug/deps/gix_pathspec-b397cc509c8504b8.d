@@ -1,0 +1,11 @@
+/home/mdupont/tools/time-tools/target/debug/deps/gix_pathspec-b397cc509c8504b8.d: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/pattern.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/init.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/matching.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/parse.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/defaults.rs
+
+/home/mdupont/tools/time-tools/target/debug/deps/libgix_pathspec-b397cc509c8504b8.rmeta: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/pattern.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/init.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/matching.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/parse.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/defaults.rs
+
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/lib.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/pattern.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/mod.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/init.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/search/matching.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/parse.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-pathspec-0.7.7/src/defaults.rs:

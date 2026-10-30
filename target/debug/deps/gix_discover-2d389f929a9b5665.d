@@ -1,0 +1,12 @@
+/home/mdupont/tools/time-tools/target/debug/deps/gix_discover-2d389f929a9b5665.d: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/repository.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/is.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/types.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/util.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/path.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/parse.rs
+
+/home/mdupont/tools/time-tools/target/debug/deps/libgix_discover-2d389f929a9b5665.rmeta: /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/lib.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/repository.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/is.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/mod.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/types.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/util.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/path.rs /home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/parse.rs
+
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/lib.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/repository.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/is.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/mod.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/types.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/upwards/util.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/path.rs:
+/home/mdupont/.cargo/registry/src/127.0.0.1-291de6b468906581/gix-discover-0.35.0/src/parse.rs:
